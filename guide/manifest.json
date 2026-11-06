@@ -1,50 +1,89 @@
 {
- "version": 1,
- "videos": {
-  "install": {
-   "zh": {
-    "url": "install-zh.mp4",
-    "duration": 17.5,
-    "steps": [
-     0,
-     5.1,
-     14.8
-    ],
-    "rev": 1
-   }
-  },
-  "auto": {
-   "zh": {
-    "url": "auto-zh.mp4",
-    "duration": 26.1,
-    "steps": [
-     0,
-     2.8,
-     4.8,
-     6.8,
-     11.8,
-     18.8,
-     23.1
-    ],
-    "rev": 1
-   }
-  },
-  "build": {
-   "zh": {
-    "url": "build-zh.mp4",
-    "duration": 26.5,
-    "steps": [
-     0,
-     1.2,
-     3.0,
-     8.6,
-     9.1,
-     13.7,
-     19.3,
-     22.5
-    ],
-    "rev": 1
-   }
+  "version": 1,
+  "videos": {
+    "install": {
+      "zh": {
+        "url": "install-zh.mp4",
+        "duration": 17.5,
+        "steps": [
+          0,
+          5.1,
+          14.8
+        ],
+        "rev": 1
+      },
+      "en": {
+        "url": "install-en.mp4",
+        "duration": 21.3,
+        "steps": [
+          0.0,
+          5.3,
+          17.8
+        ],
+        "rev": 1
+      }
+    },
+    "auto": {
+      "zh": {
+        "url": "auto-zh.mp4",
+        "duration": 26.1,
+        "steps": [
+          0,
+          2.8,
+          4.8,
+          6.8,
+          11.8,
+          18.8,
+          23.1
+        ],
+        "rev": 1
+      },
+      "en": {
+        "url": "auto-en.mp4",
+        "duration": 38.15,
+        "steps": [
+          0.0,
+          6.85,
+          9.65,
+          12.15,
+          22.15,
+          26.15,
+          34.65
+        ],
+        "rev": 1
+      }
+    },
+    "build": {
+      "zh": {
+        "url": "build-zh.mp4",
+        "duration": 26.5,
+        "steps": [
+          0,
+          1.2,
+          3.0,
+          8.6,
+          9.1,
+          13.7,
+          19.3,
+          22.5
+        ],
+        "rev": 1
+      },
+      "en": {
+        "url": "build-en.mp4",
+        "duration": 36.2,
+        "steps": [
+          0.0,
+          3.7,
+          5.4,
+          9.4,
+          10.4,
+          15.2,
+          21.2,
+          32.2
+        ],
+        "rev": 1
+      }
+    }
   }
- }
 }
